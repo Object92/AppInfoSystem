@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AppInfoSystem:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/resources/springmvc/springmvc-servlet.xml" line="30" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="047c92a1-b70c-4c1b-a9f1-d03a84fe0a55" name="Default Changelist" comment="">
+      <change afterPath="F:/gitTest/test.txt" afterDir="false" />
+      <change afterPath="F:/gitTest/好好.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AppInfoSystem_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppInfoSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/403.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/META-INF/AppInfoSystem.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/aop/AroundLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/aop/AroundLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/backend/UserLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/backend/UserLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/developer/AppController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/developer/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/developer/DevLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/controller/developer/DevLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/Back_UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/Back_UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/Dev_UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/Dev_UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/DictionaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/DictionaryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/InfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/InfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/PromotionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/PromotionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/VersionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/dao/VersionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/BusinessExcpetion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/BusinessExcpetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/CommonError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/CommonError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/CommonReturnType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/CommonReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/EmBusinessError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/EmBusinessError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/filter/CharSetFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/filter/CharSetFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Back_User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Back_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Dev_User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Dev_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Dictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Promotion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Version.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/pojo/Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/AppInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/AppInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/Back_UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/Back_UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/Dev_UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/Dev_UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/DictionaryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/DictionaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/utils/PageSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/utils/PageSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/utils/common/MyDateConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/com/bdqn/appInfo/utils/common/MyDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/Back_UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/Dev_UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/DictionaryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/InfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/PromotionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mapper/VersionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/classes/springmvc/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/appcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/applist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/common/footer1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/common/js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backend/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/backendlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/appinfoadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/appinfolist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/appinfomodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/appinfoview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/appversionadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/appversionmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/common/js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/developer/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/jsp/devlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/fastjson-1.2.54.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/hibernate-validator-6.0.13.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/mybatis-generator-core-1.3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/bootstrap-progressbar-3.3.4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/dropzone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/jqvmap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/maps/jquery-jvectormap-2.0.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/css/nprogress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/cropper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/inbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/media.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/picture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/prod-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/prod-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/prod-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/prod-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/prod-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/testLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/images/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/datepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/fastclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/moment/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/nprogress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/js/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localcss/appinfoadd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localcss/appinfolist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localcss/applist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appcheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appinfoadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appinfolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appinfomodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appinfoview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/applist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appversionadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/appversionmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded/statics/localjs/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/aop/AroundLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/backend/UserLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/DevLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/Back_UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/Dev_UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/DictionaryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/InfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/PromotionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/VersionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/BusinessExcpetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/EmBusinessError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/filter/CharSetFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Back_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Dev_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/AppInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/Back_UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/Dev_UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/DictionaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/utils/PageSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/utils/common/MyDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/appInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/Back_UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/Dev_UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/DictionaryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/InfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/PromotionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/VersionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/403.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/appcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/applist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/common/footer1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/common/js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backendlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appinfoadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appinfolist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appinfomodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appinfoview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appversionadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appversionmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/common/js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/devlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/bootstrap-progressbar-3.3.4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/dropzone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/jqvmap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/maps/jquery-jvectormap-2.0.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/nprogress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/cropper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/inbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/media.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/picture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/prod-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/prod-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/prod-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/prod-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/prod-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/testLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/datepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/fastclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/moment/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/nprogress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localcss/appinfoadd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localcss/appinfolist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localcss/applist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appcheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appinfoadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appinfolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appinfomodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appinfoview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/applist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appversionadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/appversionmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/localjs/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/AppInfoSystem.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/aop/AroundLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/aop/AroundLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/backend/UserLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/backend/UserLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/developer/AppController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/developer/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/developer/DevLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/controller/developer/DevLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/Back_UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/Back_UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/Dev_UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/Dev_UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/DictionaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/DictionaryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/InfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/InfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/PromotionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/PromotionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/VersionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/dao/VersionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/BusinessExcpetion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/BusinessExcpetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/CommonError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/CommonError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/CommonReturnType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/CommonReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/EmBusinessError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/EmBusinessError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/filter/CharSetFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/filter/CharSetFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Back_User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Back_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Dev_User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Dev_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Dictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Promotion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Version.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/pojo/Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/AppInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/AppInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/Back_UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/Back_UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/Dev_UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/Dev_UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/DictionaryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/DictionaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/utils/PageSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/utils/PageSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/utils/common/MyDateConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/appInfo/utils/common/MyDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/Back_UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/Dev_UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/DictionaryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/InfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/PromotionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/VersionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springmvc/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/appInfo.iml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/pom.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/aop/AroundLogger.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/controller/DevUserController.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/BackUserMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/DevUserMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/DictionaryMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/InfoMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/PromotionMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/dao/VersionMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/exception/BusinessExcpetion.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/exception/CommonError.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/exception/CommonReturnType.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/exception/EnumBusinessError.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/BackUser.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/Category.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/DevUser.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/Dictionary.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/Info.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/Promotion.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/pojo/Version.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/service/IDevUserService.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/service/impl/DevUserService.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/java/com/bdqn/appInfo/utils/common/MyDateConverter.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/BackUserMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/DevUserMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/DictionaryMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/InfoMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/PromotionMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mapper/VersionMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/resources/springmvc/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/META-INF/appInfo.kotlin_module" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/aop/AroundLogger.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/aop/AroundLogger.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/controller/DevUserController.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/controller/DevUserController.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/BackUserMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/BackUserMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/DevUserMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/DevUserMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/DictionaryMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/DictionaryMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/InfoMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/InfoMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/PromotionMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/PromotionMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/VersionMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/dao/VersionMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/BusinessExcpetion.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/BusinessExcpetion.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/CommonError.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/CommonError.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/CommonReturnType.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/CommonReturnType.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/EnumBusinessError.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/EnumBusinessError.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/BackUser.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/BackUser.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Category.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Category.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/DevUser.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/DevUser.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Dictionary.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Dictionary.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Info.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Info.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Promotion.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Promotion.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Version.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/pojo/Version.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/service/IDevUserService.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/service/IDevUserService.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/service/impl/DevUserService.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/service/impl/DevUserService.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/utils/common/MyDateConverter.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/com/bdqn/appInfo/utils/common/MyDateConverter.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/BackUserMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/DevUserMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/DictionaryMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/InfoMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/PromotionMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mapper/VersionMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/classes/springmvc/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/fastjson-1.2.54.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/hibernate-validator-6.0.13.Final.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/mybatis-generator-core-1.3.6.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/AppInfoSystem/index.jsp" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/META-INF/appInfo.kotlin_module" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/aop/AroundLogger.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/aop/AroundLogger.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/controller/DevUserController.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/controller/DevUserController.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/BackUserMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/BackUserMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/DevUserMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/DevUserMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/DictionaryMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/DictionaryMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/InfoMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/InfoMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/PromotionMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/PromotionMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/VersionMapper.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/dao/VersionMapper.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/BusinessExcpetion.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/BusinessExcpetion.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/CommonError.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/CommonError.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/CommonReturnType.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/CommonReturnType.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/EnumBusinessError.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/EnumBusinessError.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/BackUser.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/BackUser.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Category.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Category.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/DevUser.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/DevUser.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Dictionary.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Dictionary.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Info.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Info.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Promotion.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Promotion.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Version.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/pojo/Version.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/service/IDevUserService.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/service/IDevUserService.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/service/impl/DevUserService.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/service/impl/DevUserService.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/utils/common/MyDateConverter.class" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/com/bdqn/appInfo/utils/common/MyDateConverter.java" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/database.properties" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/BackUserMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/DevUserMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/DictionaryMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/InfoMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/PromotionMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mapper/VersionMapper.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="F:/untitled/appInfo/target/classes/springmvc/springmvc-servlet.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/AppController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5800">
+              <caret line="261" column="41" selection-start-line="261" selection-start-column="41" selection-end-line="261" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonError.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="242" lean-forward="true" selection-start-line="242" selection-end-line="242" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonError.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/BusinessExcpetion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonReturnType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/EmBusinessError.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/Dev_UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/Back_UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/backend/UserLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/Dev_UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/DevLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/AppInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/InfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/DictionaryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/DictionaryMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/aop/AroundLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/Back_UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/AppController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/工具文件/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\工具文件\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bdqn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bdqn" type="462c0819:PsiDirectoryNode" />
+              <item name="appInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppInfoSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppInfoSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\progect\AppInfoSystem\src\main\java\com\bdqn\appInfo\dao" />
+      <recent name="F:\progect\AppInfoSystem\src\main\java\com\bdqn\appInfo\service\impl" />
+      <recent name="F:\progect\AppInfoSystem\src\main\java\com\bdqn\appInfo\service" />
+      <recent name="F:\progect\AppInfoSystem\src\main\java\com\bdqn\appInfo\exception" />
+      <recent name="F:\progect\AppInfoSystem\src\main\java\com\bdqn\appInfo\controller\developer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="AppInfoSystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_AppInfoSystem" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52727" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AppInfoSystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="047c92a1-b70c-4c1b-a9f1-d03a84fe0a55" name="Default Changelist" comment="" />
+      <created>1567841207227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567841207227</updated>
+      <workItem from="1567841208526" duration="11877000" />
+      <workItem from="1567868436354" duration="604000" />
+      <workItem from="1567869043261" duration="869000" />
+      <workItem from="1567908517163" duration="5438000" />
+      <workItem from="1567989302131" duration="2111000" />
+      <workItem from="1568168486218" duration="37000" />
+      <workItem from="1568169392700" duration="4240000" />
+      <workItem from="1568289614536" duration="199000" />
+      <workItem from="1568623868029" duration="643000" />
+      <workItem from="1568626166198" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backend/common/js.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonReturnType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="30" column="69" lean-forward="true" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/utils/PageSupport.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/utils/common/MyDateConverter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Promotion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/Dev_UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/Back_UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/InfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" column="66" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/DictionaryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="20" column="78" lean-forward="true" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/DictionaryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="38" column="67" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/DictionaryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="80" lean-forward="true" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/Dev_UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Back_UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="83" column="100" selection-start-line="83" selection-start-column="100" selection-end-line="83" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/filter/CharSetFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/Dev_UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="51" column="61" lean-forward="true" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/backend/UserLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/DevLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1256">
+          <caret line="80" column="7" lean-forward="true" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/aop/AroundLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/BusinessExcpetion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/Back_UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appinfolist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/impl/AppInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-932">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/dao/Back_UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/developer/appinfoadd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/pojo/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="201" column="16" selection-start-line="201" selection-start-column="16" selection-end-line="201" selection-end-column="16" />
+          <folding>
+            <element signature="e#2956#2957#0" expanded="true" />
+            <element signature="e#2986#2987#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
+            <element signature="e#4351#4352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/appInfo.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3150">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/EmBusinessError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="20" selection-start-line="21" selection-start-column="2" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/service/AppInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="67" column="59" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/images/american-express.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/images/prod-5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/images/prod-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/images/prod-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/images/prod-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/js/datepicker/daterangepicker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/localjs/appversionadd.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppInfoSystem.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/devlogin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/backendlogin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1044" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/controller/developer/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5800">
+          <caret line="261" column="41" selection-start-line="261" selection-start-column="41" selection-end-line="261" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/appInfo/exception/CommonError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="242" lean-forward="true" selection-start-line="242" selection-end-line="242" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>AppInfoSystem:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (AppInfoSystem)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|AppInfoSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
